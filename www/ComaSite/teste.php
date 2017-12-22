@@ -36,7 +36,7 @@
 				<img id="img" src="./profile.jpg" alt="image profile" height="80">
 				<span id="level" title=""></span>
 			</div>
-
+			<br>
 			<div id="imgDiv">
 				<img src="./silver.png" id="imgRank">
 			</div>
