@@ -1,0 +1,158 @@
+#mep {
+			border: 8px solid;
+			border-color: #8A0829;
+			background-color: #DF013A;
+			margin: auto;
+		}
+		#mepp {
+			font-family: monospace;
+			font-weight: bold;
+			color: white;
+			font-size: 32px;
+			text-align: center;
+		}
+		#div1 {
+			width: 50%;
+			height: 500px;
+			margin: auto;
+		}
+		#header {
+		position: relative;
+		width: 500px;
+		margin: 0 auto;
+			margin-top: 0px;
+			margin-right: auto;
+			margin-bottom: 0px;
+			margin-left: auto;
+		padding: 20px 0 0 0;
+			padding-top: 10px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+		}
+		body {
+			background-color: #BDBDBD;
+		}
+		#p1 {
+			color: #585858;
+			text-align: center;
+			line-height: 250px;
+			font-family: sans-serif;
+		}
+		#img {
+    		display: block;
+    		margin: auto;
+    		vertical-align: center;
+    		line-height: 10px;
+		}
+		#summonerName {
+			color: #242929;
+			font-size: 20px;
+			font-family: sans-serif;
+		}
+		#div2 {
+			display: inline-block;
+			width: 100px;
+			padding-left: 30px;
+			vertical-align: top;
+		}
+		#p2 {
+			text-align: center;
+		}
+		#profileIcon {
+			position: relative;
+		}
+		#img {
+    	display: block;
+    	width: 100px;
+   	 	height: 100px;
+		}
+		#infoRank {
+			display: table-cell;
+			vertical-align: middle;
+			width: 135px;
+			height: 116px;
+			text-align: center;
+			background-color: #EAE5E5;
+
+				border-top: 1px solid #9E9A9A;
+				border-bottom: 1px solid #9E9A9A;
+				
+				border-left: 1px solid #9E9A9A;
+		}
+		#level {
+    	position: absolute;
+    	top: 100%;
+    	left: 50%;
+    	margin-top: -14px;
+    	margin-left: -22px;
+    	width: 44px;
+    	height: 24px;
+    	padding-top: 3px;
+    	box-sizing: border-box;
+    	background: url('http://opgg-static.akamaized.net/images/site/summoner/bg-levelbox.png');
+        background-size: auto auto;
+    	background-size: 100%;
+    	line-height: 17px;
+    	font-family: Helvetica,AppleSDGothic,"Apple SD Gothic Neo",AppleGothic,Arial,Tahoma;
+    	font-size: 14px;
+    	text-align: center;
+    	color: #eabd56;
+		}
+
+		#rankInfo {
+			display: flex; /* contexte sur le parent */
+  			flex-direction: column; /* direction d'affichage verticale */
+ 			justify-content: center; /* alignement vertical */
+		}
+		
+		#infos {
+			display: inline-block;
+			margin-top: 10px;
+		}
+
+		#box {
+			display: inline-block;
+			width: 300px;
+			font-size: 12px;
+			vertical-align: top;
+			background-color: #F2F2F2;
+			border-top: 1px solid #9E9A9A;
+			border-bottom: 1px solid #9E9A9A;
+			border-left: 1px solid #9E9A9A;
+			border-right: 1px solid #9E9A9A;
+		}
+		#imgDiv {
+			display: table-cell;
+			vertical-align: middle;
+			width: 135px;
+			height: 116px;
+			text-align: center;
+		}
+		#imgRank {
+			width: 120px;
+			height: 120px;
+			margin: -5px 0 -10px 0;
+    			margin-top: -5px;
+    			margin-right: 0px;
+    			margin-bottom: -10px;
+    			margin-left: 0px;
+		}
+		#TierRankInfo {
+			display: table-cell;
+			vertical-align: middle;
+			font-size: 12px;
+			line-height: 1.5;
+			text-align: left;
+		}
+		#TierRank {
+			color: #1f8ecd;
+			font-size: 13px;
+		}
+		#tierRank {
+
+		}
+		#LeaguePoints {
+			color: #555e5e;
+			font-weight: bold;
+		}
