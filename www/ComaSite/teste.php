@@ -5,6 +5,11 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<link href="styles/style.css" rel="stylesheet" type="text/css">
 </head>
+<style type="text/css">
+	#level {
+		background: url("./levelbox.png");
+	}
+</style>
 <body>
 
 
