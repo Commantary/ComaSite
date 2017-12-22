@@ -33,7 +33,7 @@
 		<div id="box">
 			<br>
 			<div id="profileIcon">
-				<img id="img" src="./profile.jpg" alt="image profile" height="80">
+				<img id="img" src="" alt="image profile" height="80">
 				<span id="level" title=""></span>
 			</div>
 			<br>
